@@ -26,3 +26,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'active_model_serializers'
+
+gem "ruby-lsp", "~> 0.3.2", :group => :development
